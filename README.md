@@ -10,6 +10,6 @@ Scala](https://alvinalexander.com/scala/learning-functional-programming-in-scala
 Alvin Alexander    
 https://alvinalexander.com
 
-
+Hopefully I will inspire me from that masterpiece
 
 
